@@ -1,5 +1,6 @@
 # Sistema de Procesamiento de Imágenes Satelitales - Pseudocódigo y mejoras
 
+Link repositorio (https://github.com/javierglezo/ExamenPar.git)
 ## Objetivo
 
 Simular un centro de procesamiento digital de imágenes satelitales, donde las imágenes llegan de forma **impredecible** desde distintos "satélites" y deben ser **procesadas** por un conjunto de "analistas automáticos", sin perder ninguna imagen, incluso en situaciones de alta carga.
